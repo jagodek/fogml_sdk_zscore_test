@@ -1,1 +1,1 @@
-# fogml_sdk_zscore_test
+# FogML SDK zscore test
