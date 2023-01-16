@@ -1,4 +1,4 @@
-#include "./../lib/anomaly_rt/fogml_zscore.h"
+#include "fogml_sdk/fogml.h"
 
 #define VECTOR_SIZE 12
 #define FILE_NAME "data.txt"
