@@ -1,3 +1,6 @@
 [submodule "src/fogml_sdk"]
 	path = src/fogml_sdk
 	url = https://github.com/jagodek/fogml_sdk.git
+[submodule "lib"]
+	path = lib
+	url = https://github.com/jagodek/fogml_sdk.git
