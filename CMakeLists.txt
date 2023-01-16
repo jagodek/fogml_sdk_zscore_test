@@ -13,4 +13,4 @@ add_library(fogml_sdk
 
 add_executable(test src/main.c)
 
-target_link_libraries(test PRIVATE fogml_sdk)
+target_link_libraries(test PRIVATE fogml_sdk m)
